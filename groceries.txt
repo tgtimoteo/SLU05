@@ -1,0 +1,3 @@
+lettuce
+bananas
+apples
